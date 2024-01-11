@@ -1,0 +1,18 @@
+cmake==3.18.4.post1                           --> CMake is an open-source, cross-platform tool that uses compiler and platform independent configuration files to generate native build tool files specific to your compiler and platform.
+
+dlib==19.24.0                                 --> dlib is a toolkit for maling real world machine learning and data analysis applications iin C++. While library is written in C++,it has good, easy to use Python bindings. It is majorly used for facial and facial landmark detection.
+
+numpy==1.23.1                                 --> NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+
+opencv-python==4.6.0.66                       --> OpenCv is a Python open-source library, which is used for computer vision in AI, ML, face-recognition, etc.
+
+pynput==1.7.2                                 --> pynput is the library of python that allows you to control and monitor or listen to your input devices such as keyboard and mouse.
+
+PyQt5==5.15.2                                 --> PyQt5 is one of the most used modules in building GUI apps in Python, and that is due to its simplicity. It makes it easy to develop complex GUI apps in short time.
+
+PyQt5-sip==12.11.0                            --> sip is a tool that makes it very easy to create Python bindings for C and C++ libraries.
+
+PyQt5-stubs==5.14.2.2                         --> This repository holds the stubs of the PyQt5 framework.
+pywin32==304                                  --> pywin32 is basically a very thin wrapper of python that allows us to interact with automate Windows applications with python.
+
+six==1.15.0                                   --> Six provides simple utilities for wrapping over differences between Python2 and Python3. 
